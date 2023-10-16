@@ -9,6 +9,6 @@ while($r = mysqli_fetch_assoc($result)) {
 }
 
 //將查詢結果轉成json字串
-echo json_encode($rows);
+echo json
 
 ?>
