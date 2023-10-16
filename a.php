@@ -3,4 +3,3 @@ this is page 1<br>
 $luckyNumber= rand(1, 100);
 echo ;
 ?>
-#fat shenbao
